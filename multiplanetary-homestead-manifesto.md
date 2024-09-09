@@ -1,4 +1,6 @@
-# Pillars of the (Solarpunk) Multiplanetary Homestead (draft)
+# Multiplanetary Homestead Manifesto
+
+## Pillars of a Solarpunk Multiplanetary Homestead
 
 - regenerative agriculture over non-regenerative agriculture<sup>[1](#myfootnote1)</sup>
 - circular economy over linear economy<sup>[1](#myfootnote1)</sup>
