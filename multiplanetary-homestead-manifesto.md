@@ -1,4 +1,4 @@
-# Pillars of the Multiplanetary Homestead (draft as of 2024-09-08)
+# Pillars of the Multiplanetary Homestead (draft)
 
 - regenerative agriculture over non-regenerative agriculture<sup>[1](#myfootnote1)</sup>
 - life-support systems designed/developed as an open-source public utilities over close-source assets<sup>[2](#myfootnote2)</sup>
