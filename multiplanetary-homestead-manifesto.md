@@ -1,5 +1,9 @@
 # Multiplanetary Homestead Manifesto
 
+## Purpose
+
+To guide the development of self-sustaining homesteads/ecovillages, capable of becoming multiplanetary, without the longterm need for (interplanetary) supplychains - i.e., post-scarcity space-faring civilizations.
+
 ## Pillars of a Solarpunk Multiplanetary Homestead
 
 - regenerative agriculture over non-regenerative agriculture<sup>[1](#myfootnote1)</sup>
