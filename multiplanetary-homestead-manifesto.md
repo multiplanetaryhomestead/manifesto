@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To guide the development of self-sustaining homesteads/ecovillages, capable of becoming multiplanetary, without the longterm need for (interplanetary) supplychains - i.e., post-scarcity space-faring civilizations.
+To guide the development of post-scarcity space-faring single-family ecohomes
 
 ## Pillars of a Solarpunk Multiplanetary Homestead
 
