@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To guide the development of post-scarcity space-faring single-family ecohomes
+To guide the development of post-scarcity space-faring single-family homesteads
 
 ## Pillars of a Solarpunk Multiplanetary Homestead
 
