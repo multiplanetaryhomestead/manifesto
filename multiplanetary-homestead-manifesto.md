@@ -4,7 +4,7 @@
 
 To guide the development of post-scarcity space-faring single-family homesteads
 
-## Pillars of a Solarpunk Multiplanetary Homestead
+## Principles of a Solarpunk Multiplanetary Homestead
 
 - regenerative (over non-regenerative) agriculture<sup>[1](#myfootnote1)</sup>
 - circular (over linear) economy<sup>[1](#myfootnote1)</sup>
