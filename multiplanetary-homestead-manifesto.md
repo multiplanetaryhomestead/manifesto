@@ -16,3 +16,8 @@ To guide the development of post-scarcity space-faring single-family homesteads
 <a name="myfootnote2">2</a>: People-care (Permaculture Ethic)
 
 <a name="myfootnote3">3</a>: Fair-share (Permaculture Ethic)
+
+---
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![CC-BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
