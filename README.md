@@ -1,8 +1,8 @@
 # Multiplanetary Homestead Manifesto
 
-## Purpose
+## Preamble
 
-To guide the development of post-scarcity space-faring single-family homesteads
+The purpose of this manifesto is to establish a core set of principles to guide the development of (space-faring) permaculture homesteads (eco-homes or eco-villages) as a means to eliminate artificial scarcity.
 
 ## Principles of a Solarpunk Multiplanetary Homestead
 
