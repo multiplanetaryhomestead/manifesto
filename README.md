@@ -2,7 +2,7 @@
 
 ## Preamble
 
-The purpose of this manifesto is to establish a core set of principles to guide the development of fundamental tools needed to construct self-sufficient (space-faring) permaculture homesteads (eco-homes or eco-villages) as a means to reduce supplychain dependencies, eliminate artificial scarcity of essential needs, and enable a post-scarcity economy.
+The purpose of this manifesto is to establish a set of principles to guide the development of life-support systems and tools for small-scale permaculture homesteads with enough bootstrapping capability to reduce supplychain dependencies, eliminate artificial scarcity of essential needs, and enable a post-scarcity economy, while preserving biodiversity and regenerating ecosystems.
 
 ## Principles of a Solarpunk Homestead
 
