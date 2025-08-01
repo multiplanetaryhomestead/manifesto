@@ -6,7 +6,7 @@ The purpose of this manifesto is to establish a core set of principles to guide 
 
 ## Principles of a Solarpunk Multiplanetary Homestead
 
-- regenerative (over non-regenerative) agriculture<sup>[1](#myfootnote1)</sup>
+- regenerative (over non-regenerative) resource extraction<sup>[1](#myfootnote1)</sup>
 - circular (over linear) product lifecycle<sup>[1](#myfootnote1)</sup>
 - open-source (over close-source) life-support systems<sup>[2](#myfootnote2)</sup><sup>[3](#myfootnote3)</sup>
 - localized/distributed (over centralized) production<sup>[3](#myfootnote3)</sup>
