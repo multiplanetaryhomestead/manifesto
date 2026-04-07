@@ -2,9 +2,9 @@
 
 ## Preamble
 
-The purpose of this manifesto is to establish a set of principles to guide the development of life-support systems and tools for small-scale intensive permaculture homesteads with enough bootstrapping capability to reduce supplychain dependencies, eliminate artificial scarcity of essential needs, and enable a post-scarcity economy, while preserving biodiversity and regenerating ecosystems.
+The purpose of this manifesto is to establish a set of values & principles to guide the development of life-support systems and tools for small-scale intensive permaculture homesteads with enough bootstrapping capability to reduce supplychain dependencies, eliminate artificial scarcity of essential needs, and enable a post-scarcity economy, while preserving biodiversity and regenerating ecosystems.
 
-## Principles of a Solarpunk Multiplanetary Homestead
+## Values of a Solarpunk Multiplanetary Homestead
 
 - regenerative (over non-regenerative) resource extraction<sup>[1](#myfootnote1)</sup>
 - circular (over linear) product lifecycle<sup>[1](#myfootnote1)</sup>
