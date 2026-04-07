@@ -6,10 +6,10 @@ The purpose of this manifesto is to establish a set of values & principles to gu
 
 ## Values of a Solarpunk Multiplanetary Homestead
 
-- regenerative (over non-regenerative) resource extraction<sup>[1](#myfootnote1)</sup>
-- circular (over linear) product lifecycle<sup>[1](#myfootnote1)</sup>
-- open-source (over close-source) development<sup>[2](#myfootnote2)</sup><sup>[3](#myfootnote3)</sup>
-- localized/distributed (over centralized) production<sup>[3](#myfootnote3)</sup>
+1. regenerative (over non-regenerative) resource extraction<sup>[1](#myfootnote1)</sup>
+2. circular (over linear) product lifecycle<sup>[1](#myfootnote1)</sup>
+3. open-source (over close-source) development<sup>[2](#myfootnote2)</sup><sup>[3](#myfootnote3)</sup>
+4. localized/distributed (over centralized) production<sup>[3](#myfootnote3)</sup>
 
 ### Permaculture Ethics
 
