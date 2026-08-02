@@ -7,10 +7,10 @@ Such homesteads shall be capable of eliminating its dependency on supplychains (
 
 ## Pillars of a Solarpunk Multiplanetary Homestead
 
-1. regenerative (over non-regenerative) resource extraction<sup>[1](#myfootnote1)</sup>
-2. circular (over linear) product lifecycle<sup>[1](#myfootnote1)</sup>
-3. recursively (over shallow) open source development<sup>[2](#myfootnote2)</sup><sup>[3](#myfootnote3)</sup>
-4. localized/distributed (over centralized) production<sup>[3](#myfootnote3)</sup>
+1. regenerative resource extraction<sup>[1](#myfootnote1)</sup>
+2. circular product lifecycle<sup>[1](#myfootnote1)</sup>
+3. recursively open source development<sup>[2](#myfootnote2)</sup><sup>[3](#myfootnote3)</sup>
+4. localized/distributed production<sup>[3](#myfootnote3)</sup>
 
 ### Permaculture Ethics
 
