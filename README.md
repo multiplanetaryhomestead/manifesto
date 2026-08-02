@@ -11,9 +11,13 @@ Such homesteads shall be capable of eliminating its dependency on supplychains (
 
     1.1. circular product lifecycle<sup>[1](#myfootnote1)</sup>
 
-2. localized/distributed production<sup>[3](#myfootnote3)</sup>
+2. small-scale intensive & modular life-support systems<sup>[2](#myfootnote2)</sup>
 
-    2.1. recursively open source development<sup>[2](#myfootnote2)</sup><sup>[3](#myfootnote3)</sup>
+    2.1. small-scale intensive & modular tools<sup>[2](#myfootnote2)</sup>
+
+3. localized/distributed production<sup>[3](#myfootnote3)</sup>
+
+    3.1. recursively open source development<sup>[3](#myfootnote3)</sup>
 
 ### Permaculture Ethics
 
