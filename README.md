@@ -2,7 +2,7 @@
 
 ## Preamble
 
-The purpose of this manifesto is to establish a set of pillars to guide the development of appropriate and convivial technologies needed to build and sustain ecological post-scarcity homesteads.
+The purpose of this manifesto is to establish a set of pillars to guide the development of appropriate and convivial technes needed to build and sustain ecological post-scarcity homesteads.
 
 ## Pillars of a Solarpunk Multiplanetary Homestead
 
